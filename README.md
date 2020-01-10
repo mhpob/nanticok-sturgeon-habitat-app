@@ -1,1 +1,1 @@
-# nanticok-sturgeon-habitat-app
+# nanticoke-sturgeon-habitat-app
